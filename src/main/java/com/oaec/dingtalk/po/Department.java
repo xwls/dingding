@@ -7,9 +7,9 @@ import javax.persistence.Id;
 /**
  * Created by Kevin on 2017/7/30.
  */
-@Entity
+
 public class Department {
-	@Id
+
 	private Integer id;
 
 	private boolean createDeptGroup;

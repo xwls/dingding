@@ -81,31 +81,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-        <dependency>
-            <groupId>com.dingtalk.open</groupId>
-            <artifactId>client-sdk.api</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/client-sdk.api-1.0.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>com.dingtalk.open</groupId>
-            <artifactId>client-sdk.common</artifactId>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/client-sdk.common-1.0.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>com.dingtalk.open</groupId>
-            <artifactId>client-sdk.core</artifactId>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/client-sdk.core-1.0.0.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>com.dingtalk.open</groupId>
-            <artifactId>client-sdk.spring</artifactId>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/client-sdk.spring-1.0.0.jar</systemPath>
-        </dependency>
 	</dependencies>
 
 	<build>

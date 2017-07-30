@@ -1,7 +1,5 @@
 package com.oaec.dingtalk.controller;
 
-import com.dingtalk.open.client.ServiceFactory;
-import com.dingtalk.open.client.common.SdkInitException;
 import com.oaec.dingtalk.utils.Env;
 import com.oaec.dingtalk.utils.HttpUtil;
 import org.springframework.stereotype.Controller;
