@@ -1,9 +1,5 @@
 package com.oaec.dingtalk.po;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-
 /**
  * Created by Kevin on 2017/7/30.
  */
